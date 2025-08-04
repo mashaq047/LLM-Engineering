@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Website Summarizer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Orbitron', sans-serif;
+      background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+      color: #e0e0e0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 2rem;
+      border-radius: 15px;
+      box-shadow: 0 0 25px rgba(0, 255, 255, 0.2);
+      width: 90%;
+      max-width: 600px;
+      text-align: center;
+      backdrop-filter: blur(10px);
+    }
+
+    h2 {
+      margin-bottom: 1.5rem;
+      color: #00ffff;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 0.8rem;
+      font-size: 1rem;
+      border-radius: 10px;
+      border: none;
+      outline: none;
+      background-color: rgba(255, 255, 255, 0.1);
+      color: white;
+    }
+
+    button {
+      margin-top: 1rem;
+      padding: 0.8rem 2rem;
+      font-size: 1rem;
+      font-weight: bold;
+      background-color: #00ffff;
+      color: #000;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #00cccc;
+    }
+
+    .summary {
+      margin-top: 2rem;
+      background-color: rgba(255, 255, 255, 0.07);
+      padding: 1rem;
+      border-radius: 10px;
+      white-space: pre-wrap;
+      text-align: left;
+      color: #c0f7ff;
+      font-family: monospace;
+    }
+
+    .hidden {
+      display: none;
+    }
+    .spinner {
+  margin: 2rem auto;
+  width: 48px;
+  height: 48px;
+  border: 5px solid rgba(0, 255, 255, 0.2);
+  border-top: 5px solid #00ffff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2>AI Website Summarizer</h2>
+
+    <div id="inputSection">
+      <input type="text" id="urlInput" placeholder="Enter website URL..." />
+      <button id="summarizeBtn">Summarize</button>
+    </div>
+
+    <div id="summarySection" class="hidden">
+      <div id="summary" class="summary"></div>
+      <button id="resetBtn" style="margin-top: 1.5rem;">🔁 Summarize Another</button>
+    </div>
+  </div>
+
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <script>
+  const summarizeBtn = document.getElementById('summarizeBtn');
+  const resetBtn = document.getElementById('resetBtn');
+  const urlInput = document.getElementById('urlInput');
+  const inputSection = document.getElementById('inputSection');
+  const summarySection = document.getElementById('summarySection');
+  const summaryDiv = document.getElementById('summary');
+
+  const spinner = document.createElement('div');
+  spinner.className = 'spinner';
+  summaryDiv.appendChild(spinner);
+
+  summarizeBtn.addEventListener('click', async () => {
+    const url = urlInput.value.trim();
+    if (!url) return alert("Please enter a website URL.");
+
+    inputSection.classList.add('hidden');
+    summaryDiv.innerHTML = '';
+    summaryDiv.appendChild(spinner);
+    spinner.classList.remove('hidden');
+    summarySection.classList.remove('hidden');
+
+    try {
+      const res = await fetch('http://localhost:8000/api/summarize', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({ url })
+      });
+
+      const data = await res.json();
+      spinner.classList.add('hidden');
+
+      if (data.summary) {
+        const rawText = marked.parse(data.summary);
+        typeText(summaryDiv, rawText);
+      } else {
+        summaryDiv.innerHTML = `❌ Error: ${data.error}`;
+      }
+    } catch (error) {
+      spinner.classList.add('hidden');
+      summaryDiv.innerHTML = `⚠️ Failed to connect to server: ${error.message}`;
+    }
+  });
+
+  resetBtn.addEventListener('click', () => {
+    summaryDiv.innerHTML = '';
+    urlInput.value = '';
+    summarySection.classList.add('hidden');
+    inputSection.classList.remove('hidden');
+  });
+
+  function typeText(container, htmlContent) {
+    container.innerHTML = '';
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = htmlContent;
+    const text = tempDiv.innerText;
+
+    let i = 0;
+    function type() {
+      if (i < text.length) {
+        container.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(type, 15);
+      }
+    }
+    type();
+  }
+</script>
+
+
+</body>
+</html>
