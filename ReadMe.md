@@ -43,7 +43,7 @@ ollama run llama3
 
 # Run the backend
 uvicorn main:app --reload
-
+```
 
 # 🛍️ Project 2: Store Assistant AI Chatbot
 
