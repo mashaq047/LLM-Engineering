@@ -1,0 +1,14 @@
+# Web UI
+gradio==4.36.1
+
+# PDF processing
+pymupdf==1.24.9   # For PDF preview and text extraction
+
+# HTTP requests for Ollama
+requests==2.32.3
+
+# JSON schema validation
+jsonschema==4.23.0
+
+# Environment variable support (optional)
+python-dotenv==1.0.1
