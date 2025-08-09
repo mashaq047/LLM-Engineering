@@ -270,7 +270,7 @@ with gr.Blocks() as demo:
         with gr.Column(scale=6):
             out_text = gr.Textbox(
                 label="📦 Structured JSON Output",
-                lines=20,
+                lines=30,
                 interactive=False
             )
 
