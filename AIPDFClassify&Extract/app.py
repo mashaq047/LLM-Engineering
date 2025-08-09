@@ -232,16 +232,59 @@ def preview_pdf(file):
     return image_path
 
 
+# with gr.Blocks() as demo:
+#     gr.Markdown("# Ollama Llama 3.2 Invoice/Statement Extractor")
+#     with gr.Row():
+#         with gr.Column():
+#             pdf_in = gr.File(label="Upload PDF (invoice or bank statement)")
+#             pdf_preview = gr.Image(label="Preview (First Page)")
+#         btn = gr.Button("Analyze")
+#         out_text = gr.Textbox(label="Structured JSON output", lines=20)
+#     pdf_in.change(preview_pdf, inputs=pdf_in, outputs=pdf_preview)
+#     btn.click(fn=run_pipeline, inputs=[pdf_in], outputs=[out_text])
+
+
+# if __name__ == "__main__":
+#     demo.launch( share=False)
+
+
 with gr.Blocks() as demo:
-    gr.Markdown("# Ollama Llama 3.2 Invoice/Statement Extractor")
+    gr.Markdown("## AI Invoice/Statement JSON Extractor")
+
     with gr.Row():
-        with gr.Column():
-            pdf_in = gr.File(label="Upload PDF (invoice or bank statement)")
-            pdf_preview = gr.Image(label="Preview (First Page)")
-        btn = gr.Button("Analyze")
-        out_text = gr.Textbox(label="Structured JSON output", lines=20)
+        # Left panel
+        with gr.Column(scale=5):
+            pdf_in = gr.File(
+                label="📤 Upload PDF",
+                file_types=[".pdf"]
+            )
+            pdf_preview = gr.Image(
+                label="👁 Preview (First Page)"
+            )
+
+        # Center panel (convert button)
+        with gr.Column(scale=1, min_width=80, elem_id="center-btn"):
+            btn = gr.Button("➡️ Convert", size="lg")
+
+        # Right panel
+        with gr.Column(scale=6):
+            out_text = gr.Textbox(
+                label="📦 Structured JSON Output",
+                lines=20,
+                interactive=False
+            )
+
+    # Events
     pdf_in.change(preview_pdf, inputs=pdf_in, outputs=pdf_preview)
     btn.click(fn=run_pipeline, inputs=[pdf_in], outputs=[out_text])
 
-if __name__ == "__main__":
-    demo.launch( share=False)
+# Optional CSS for centering button vertically
+demo.css = """
+#center-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+"""
+
+demo.launch()
