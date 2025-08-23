@@ -1,0 +1,34 @@
+Product Name: Pebble Cosmos Ultra
+Category: smartwatches
+SKU: SMA-ZO6DIBMV
+Release Year: 2022
+Price (USD): $315.51
+
+Short Description:
+Advanced smartwatch for health tracking and everyday convenience.
+
+Specs:
+- Display: 1.4" AMOLED
+- Battery Life: 2 days
+- Sensors: PPG, ECG, GPS
+- Water Resistance: IP68
+- Connectivity: Bluetooth, Wi‑Fi
+
+Key Features:
+- 24/7 heart rate tracking
+- Sleep and stress monitoring
+- Offline music
+- Turn-by-turn navigation
+
+In the Box:
+- Watch
+- Strap
+- Magnetic charger
+- Quick start guide
+
+Additional Details:
+- Dimensions: 35.8 x 13.1 x 8.3 cm
+- Weight: 0.76 kg
+- Warranty: 3 years
+- Tags: fitness, GPS, AMOLED
+- Generated On: 2025-08-21T14:14:15.548560Z

@@ -1,0 +1,34 @@
+Product Name: Acer Predator Helios Neo 16
+Category: laptops
+SKU: LAP-RP67ZTSS
+Release Year: 2023
+Price (USD): $2982.7
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Apple M4
+- GPU: Radeon 780M
+- RAM: 32 GB
+- Storage: 4096 GB NVMe SSD
+- Display: 16" IPS 120Hz
+- Battery: 54 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 28.5 x 20.6 x 7.6 cm
+- Weight: 3.33 kg
+- Warranty: 6 months
+- Tags: laptop, business, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.525953Z

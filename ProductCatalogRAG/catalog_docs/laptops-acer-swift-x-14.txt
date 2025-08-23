@@ -1,0 +1,34 @@
+Product Name: Acer Swift X 14
+Category: laptops
+SKU: LAP-7DM77UYH
+Release Year: 2025
+Price (USD): $584.53
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: AMD Ryzen 9 8945HS
+- GPU: NVIDIA RTX 4060
+- RAM: 16 GB
+- Storage: 512 GB NVMe SSD
+- Display: 15.6" IPS 120Hz
+- Battery: 99 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 25.5 x 16.6 x 22.9 cm
+- Weight: 0.2 kg
+- Warranty: 1 year
+- Tags: laptop, creator, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.522767Z

@@ -1,0 +1,34 @@
+Product Name: Sony WH-1000XM6
+Category: headphones
+SKU: HEA-RVALZFR2
+Release Year: 2023
+Price (USD): $840.44
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 9 mm
+- Battery Life: 8 hours
+- Codec: aptX Adaptive
+- Charging: USB-C
+- Water Resistance: None
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 39.8 x 12.3 x 22.5 cm
+- Weight: 3.04 kg
+- Warranty: 6 months
+- Tags: wireless, ANC, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.500462Z

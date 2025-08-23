@@ -1,0 +1,34 @@
+Product Name: Xiaomi Watch S3 Pro
+Category: smartwatches
+SKU: SMA-W87HIYVH
+Release Year: 2025
+Price (USD): $164.97
+
+Short Description:
+Advanced smartwatch for health tracking and everyday convenience.
+
+Specs:
+- Display: 1.4" AMOLED
+- Battery Life: 4 days
+- Sensors: PPG, GPS, Altimeter
+- Water Resistance: 10 ATM
+- Connectivity: Bluetooth, LTE
+
+Key Features:
+- 24/7 heart rate tracking
+- Sleep and stress monitoring
+- Offline music
+- Turn-by-turn navigation
+
+In the Box:
+- Watch
+- Strap
+- Magnetic charger
+- Quick start guide
+
+Additional Details:
+- Dimensions: 26.2 x 12.4 x 19.7 cm
+- Weight: 0.44 kg
+- Warranty: 6 months
+- Tags: fitness, GPS, ALWAYS-ON
+- Generated On: 2025-08-21T14:14:15.546609Z

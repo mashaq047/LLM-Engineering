@@ -1,0 +1,34 @@
+Product Name: Nothing Ear (2)
+Category: headphones
+SKU: HEA-EW0U4O55
+Release Year: 2023
+Price (USD): $775.14
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 50 mm
+- Battery Life: 8 hours
+- Codec: SBC
+- Charging: Lightning
+- Water Resistance: IPX5
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 11.5 x 24.9 x 20.4 cm
+- Weight: 3.17 kg
+- Warranty: 2 years
+- Tags: wireless, in-ear, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.518477Z

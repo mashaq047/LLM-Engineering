@@ -1,0 +1,34 @@
+Product Name: Microsoft Surface Laptop 7
+Category: laptops
+SKU: LAP-2I0NCSHJ
+Release Year: 2022
+Price (USD): $2128.19
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Intel Core Ultra 7
+- GPU: Integrated
+- RAM: 16 GB
+- Storage: 4096 GB NVMe SSD
+- Display: 16" Mini-LED 144Hz
+- Battery: 70 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 15.6 x 21.8 x 23.1 cm
+- Weight: 1.61 kg
+- Warranty: 18 months
+- Tags: laptop, ultrabook, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.524911Z

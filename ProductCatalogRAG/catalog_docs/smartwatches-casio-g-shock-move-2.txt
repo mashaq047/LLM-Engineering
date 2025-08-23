@@ -1,0 +1,34 @@
+Product Name: Casio G-Shock Move 2
+Category: smartwatches
+SKU: SMA-55QDGJWK
+Release Year: 2025
+Price (USD): $671.85
+
+Short Description:
+Advanced smartwatch for health tracking and everyday convenience.
+
+Specs:
+- Display: 1.75" OLED
+- Battery Life: 14 days
+- Sensors: PPG, GPS, Altimeter
+- Water Resistance: 10 ATM
+- Connectivity: Bluetooth, Wi‑Fi
+
+Key Features:
+- 24/7 heart rate tracking
+- Sleep and stress monitoring
+- Offline music
+- Turn-by-turn navigation
+
+In the Box:
+- Watch
+- Strap
+- Magnetic charger
+- Quick start guide
+
+Additional Details:
+- Dimensions: 21.1 x 7.3 x 19.2 cm
+- Weight: 2.6 kg
+- Warranty: 1 year
+- Tags: fitness, GPS, ALWAYS-ON
+- Generated On: 2025-08-21T14:14:15.549235Z

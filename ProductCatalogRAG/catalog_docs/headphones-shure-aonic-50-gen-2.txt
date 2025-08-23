@@ -1,0 +1,34 @@
+Product Name: Shure Aonic 50 Gen 2
+Category: headphones
+SKU: HEA-TD83T9KB
+Release Year: 2024
+Price (USD): $377.33
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 9 mm
+- Battery Life: 12 hours
+- Codec: AAC
+- Charging: USB-C
+- Water Resistance: IP55
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 12.7 x 24.5 x 15.5 cm
+- Weight: 3.46 kg
+- Warranty: 1 year
+- Tags: wireless, over-ear, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.502752Z

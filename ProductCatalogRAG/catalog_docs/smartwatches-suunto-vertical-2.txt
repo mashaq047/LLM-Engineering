@@ -1,0 +1,34 @@
+Product Name: Suunto Vertical 2
+Category: smartwatches
+SKU: SMA-S3MY8PGG
+Release Year: 2023
+Price (USD): $425.38
+
+Short Description:
+Advanced smartwatch for health tracking and everyday convenience.
+
+Specs:
+- Display: 1.2" AMOLED
+- Battery Life: 4 days
+- Sensors: PPG, ECG, GPS
+- Water Resistance: 5 ATM
+- Connectivity: Bluetooth
+
+Key Features:
+- 24/7 heart rate tracking
+- Sleep and stress monitoring
+- Offline music
+- Turn-by-turn navigation
+
+In the Box:
+- Watch
+- Strap
+- Magnetic charger
+- Quick start guide
+
+Additional Details:
+- Dimensions: 20.1 x 9.8 x 22.0 cm
+- Weight: 2.75 kg
+- Warranty: 1 year
+- Tags: fitness, GPS, AMOLED
+- Generated On: 2025-08-21T14:14:15.544728Z
