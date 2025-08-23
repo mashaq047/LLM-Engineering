@@ -1,0 +1,34 @@
+Product Name: Cambridge Melomania M100
+Category: headphones
+SKU: HEA-E8EKLF72
+Release Year: 2022
+Price (USD): $495.22
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 10 mm
+- Battery Life: 12 hours
+- Codec: AAC
+- Charging: USB-C
+- Water Resistance: IP55
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 16.7 x 12.1 x 5.7 cm
+- Weight: 3.23 kg
+- Warranty: 3 years
+- Tags: wireless, over-ear, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.519824Z

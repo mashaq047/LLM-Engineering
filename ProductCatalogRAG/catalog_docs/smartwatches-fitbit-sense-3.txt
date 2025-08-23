@@ -1,0 +1,34 @@
+Product Name: Fitbit Sense 3
+Category: smartwatches
+SKU: SMA-XJEZLHKX
+Release Year: 2023
+Price (USD): $771.82
+
+Short Description:
+Advanced smartwatch for health tracking and everyday convenience.
+
+Specs:
+- Display: 1.75" AMOLED
+- Battery Life: 14 days
+- Sensors: PPG, ECG, GPS
+- Water Resistance: 5 ATM
+- Connectivity: Bluetooth
+
+Key Features:
+- 24/7 heart rate tracking
+- Sleep and stress monitoring
+- Offline music
+- Turn-by-turn navigation
+
+In the Box:
+- Watch
+- Strap
+- Magnetic charger
+- Quick start guide
+
+Additional Details:
+- Dimensions: 3.2 x 23.0 x 22.5 cm
+- Weight: 0.03 kg
+- Warranty: 1 year
+- Tags: fitness, GPS, AMOLED
+- Generated On: 2025-08-21T14:14:15.543148Z

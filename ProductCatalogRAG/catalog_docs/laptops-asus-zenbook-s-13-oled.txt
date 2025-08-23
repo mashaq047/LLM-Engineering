@@ -1,0 +1,34 @@
+Product Name: Asus Zenbook S 13 OLED
+Category: laptops
+SKU: LAP-Y5YGHRCO
+Release Year: 2025
+Price (USD): $3023.06
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Apple M4
+- GPU: NVIDIA RTX 4060
+- RAM: 32 GB
+- Storage: 4096 GB NVMe SSD
+- Display: 16" OLED 120Hz
+- Battery: 54 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 3.0 x 23.3 x 2.4 cm
+- Weight: 2.46 kg
+- Warranty: 3 years
+- Tags: laptop, ultrabook, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.525359Z

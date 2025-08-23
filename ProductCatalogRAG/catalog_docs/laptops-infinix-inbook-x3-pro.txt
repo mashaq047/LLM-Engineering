@@ -1,0 +1,34 @@
+Product Name: Infinix InBook X3 Pro
+Category: laptops
+SKU: LAP-HERI9PW2
+Release Year: 2024
+Price (USD): $3426.72
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Intel Core Ultra 7
+- GPU: NVIDIA RTX 4060
+- RAM: 32 GB
+- Storage: 2048 GB NVMe SSD
+- Display: 14" OLED 240Hz
+- Battery: 80 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 31.8 x 25.3 x 19.2 cm
+- Weight: 0.83 kg
+- Warranty: 3 years
+- Tags: laptop, gaming, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.529724Z

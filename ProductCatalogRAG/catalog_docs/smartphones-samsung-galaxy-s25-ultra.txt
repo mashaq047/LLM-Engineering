@@ -1,0 +1,34 @@
+Product Name: Samsung Galaxy S25 Ultra
+Category: smartphones
+SKU: SMA-6AHEKHCQ
+Release Year: 2024
+Price (USD): $283.01
+
+Short Description:
+Modern smartphone with stunning display, fast performance, and versatile cameras.
+
+Specs:
+- Chipset: A18 Pro
+- Display: 6.9" LTPO 120Hz
+- Cameras: 200MP triple camera
+- Battery: 4700 mAh
+- Charging: 120W wired, 15W wireless
+
+Key Features:
+- All-day battery life
+- IP68 water resistance
+- Ultra-fast 5G
+- AI camera features
+
+In the Box:
+- Phone
+- USB-C cable
+- SIM ejector
+- Quick start guide
+
+Additional Details:
+- Dimensions: 15.8 x 9.9 x 7.6 cm
+- Weight: 2.92 kg
+- Warranty: 6 months
+- Tags: 5G, gaming, dual-SIM
+- Generated On: 2025-08-21T14:14:15.530732Z

@@ -1,0 +1,34 @@
+Product Name: Redmi Note 14 Pro+
+Category: smartphones
+SKU: SMA-EUMBDJUT
+Release Year: 2025
+Price (USD): $810.35
+
+Short Description:
+Modern smartphone with stunning display, fast performance, and versatile cameras.
+
+Specs:
+- Chipset: Snapdragon 8 Gen 4
+- Display: 6.4" LTPO 120Hz
+- Cameras: 64MP triple camera
+- Battery: 4700 mAh
+- Charging: 45W wired, 20W wireless
+
+Key Features:
+- All-day battery life
+- IP68 water resistance
+- Ultra-fast 5G
+- AI camera features
+
+In the Box:
+- Phone
+- USB-C cable
+- SIM ejector
+- Quick start guide
+
+Additional Details:
+- Dimensions: 14.2 x 16.8 x 23.8 cm
+- Weight: 0.94 kg
+- Warranty: 6 months
+- Tags: 5G, camera-focused, dual-SIM
+- Generated On: 2025-08-21T14:14:15.537061Z

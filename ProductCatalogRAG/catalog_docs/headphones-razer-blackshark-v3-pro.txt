@@ -1,0 +1,34 @@
+Product Name: Razer BlackShark V3 Pro
+Category: headphones
+SKU: HEA-M8MR2PR3
+Release Year: 2023
+Price (USD): $714.4
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 50 mm
+- Battery Life: 30 hours
+- Codec: SBC
+- Charging: USB-C
+- Water Resistance: IPX4
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 6.4 x 27.7 x 13.6 cm
+- Weight: 3.16 kg
+- Warranty: 18 months
+- Tags: wireless, over-ear, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.516777Z

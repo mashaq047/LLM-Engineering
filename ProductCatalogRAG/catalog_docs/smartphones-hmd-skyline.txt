@@ -1,0 +1,34 @@
+Product Name: HMD Skyline
+Category: smartphones
+SKU: SMA-Y81B62S6
+Release Year: 2025
+Price (USD): $1419.43
+
+Short Description:
+Modern smartphone with stunning display, fast performance, and versatile cameras.
+
+Specs:
+- Chipset: Snapdragon 8 Gen 4
+- Display: 6.7" LTPO 1Hz
+- Cameras: 50MP triple camera
+- Battery: 5000 mAh
+- Charging: 80W wired, 30W wireless
+
+Key Features:
+- All-day battery life
+- IP68 water resistance
+- Ultra-fast 5G
+- AI camera features
+
+In the Box:
+- Phone
+- USB-C cable
+- SIM ejector
+- Quick start guide
+
+Additional Details:
+- Dimensions: 5.1 x 9.0 x 13.0 cm
+- Weight: 1.49 kg
+- Warranty: 1 year
+- Tags: 5G, gaming, dual-SIM
+- Generated On: 2025-08-21T14:14:15.541403Z

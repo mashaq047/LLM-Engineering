@@ -1,0 +1,34 @@
+Product Name: Lenovo Legion 5 Pro
+Category: laptops
+SKU: LAP-775U2G55
+Release Year: 2023
+Price (USD): $910.52
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Intel Core Ultra 7
+- GPU: NVIDIA RTX 4070
+- RAM: 32 GB
+- Storage: 4096 GB NVMe SSD
+- Display: 15.6" Mini-LED 60Hz
+- Battery: 54 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 15.2 x 9.4 x 2.5 cm
+- Weight: 2.56 kg
+- Warranty: 18 months
+- Tags: laptop, business, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.520593Z

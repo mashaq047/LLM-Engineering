@@ -1,0 +1,34 @@
+Product Name: LG Gram 17
+Category: laptops
+SKU: LAP-505J3PJW
+Release Year: 2025
+Price (USD): $1008.49
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Intel Core Ultra 7
+- GPU: Integrated
+- RAM: 16 GB
+- Storage: 1024 GB NVMe SSD
+- Display: 13.3" IPS 144Hz
+- Battery: 99 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 17.2 x 15.0 x 20.1 cm
+- Weight: 0.81 kg
+- Warranty: 1 year
+- Tags: laptop, ultrabook, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.524143Z

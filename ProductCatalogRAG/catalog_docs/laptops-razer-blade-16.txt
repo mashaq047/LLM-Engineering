@@ -1,0 +1,34 @@
+Product Name: Razer Blade 16
+Category: laptops
+SKU: LAP-4KJWJH07
+Release Year: 2024
+Price (USD): $561.35
+
+Short Description:
+Powerful laptop designed for performance and portability.
+
+Specs:
+- CPU: Intel Core Ultra 7
+- GPU: Integrated
+- RAM: 16 GB
+- Storage: 512 GB NVMe SSD
+- Display: 13.3" Mini-LED 120Hz
+- Battery: 80 Wh
+
+Key Features:
+- Backlit keyboard
+- Fast charging
+- Thunderbolt/USB4
+- High refresh display
+
+In the Box:
+- Laptop
+- Power adapter
+- User guide
+
+Additional Details:
+- Dimensions: 6.7 x 12.3 x 7.2 cm
+- Weight: 2.3 kg
+- Warranty: 18 months
+- Tags: laptop, business, Wi‑Fi 6E
+- Generated On: 2025-08-21T14:14:15.523390Z

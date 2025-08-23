@@ -1,0 +1,34 @@
+Product Name: Google Pixel Buds Pro 2
+Category: headphones
+SKU: HEA-3O3P8XHB
+Release Year: 2024
+Price (USD): $113.68
+
+Short Description:
+Premium wireless headphones with immersive sound and long battery life.
+
+Specs:
+- Driver Size: 50 mm
+- Battery Life: 40 hours
+- Codec: SBC
+- Charging: Qi wireless
+- Water Resistance: IP55
+
+Key Features:
+- Active Noise Cancellation
+- Multipoint pairing
+- Transparency mode
+- Low-latency gaming mode
+
+In the Box:
+- Headphones/Earbuds
+- Charging cable
+- Ear tips
+- Carrying case
+
+Additional Details:
+- Dimensions: 23.9 x 18.8 x 21.9 cm
+- Weight: 1.86 kg
+- Warranty: 3 years
+- Tags: wireless, over-ear, bluetooth 5.3
+- Generated On: 2025-08-21T14:14:15.519281Z
