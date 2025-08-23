@@ -32,7 +32,7 @@ MAX_NEW_TOKENS = 512
 def load_documents(folder: str) -> List[Document]:
     if not os.path.exists(folder):
         os.makedirs(folder, exist_ok=True)
-        raise FileNotFoundError(f"No catalog docs found in {folder}. Please add .txt, .md, or .pdf files.")
+        raise FileNotFoundError(f"No catalog docs found in {folder}. Please add .txt or .md")
 
     docs = []
     for file in os.listdir(folder):
