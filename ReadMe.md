@@ -39,3 +39,10 @@ The chatbot uses [OpenAI-compatible](https://platform.openai.com/docs/api-refere
 #### 📌 Description
 This project demonstrates how to **run a quantized Large Language Model (LLM) on resource-constrained devices** such as laptops, smartphones, or small edge devices.  
 It uses the **Microsoft Phi-3 Mini Instruct** model with **8-bit quantization** (via `bitsandbytes`) to make inference lighter and faster, while maintaining useful performance.  
+
+
+### 🛒 Project #5 – Product Catalog RAG Chatbot
+
+#### 📌 Description
+This project is a **Retrieval-Augmented Generation (RAG) chatbot** built with **LangChain**, **ChromaDB**, **Ollama**, and **Gradio**.  
+It allows you to upload a **product catalog** (in `.txt` or `.md` format), embed it into a **vector store**, and then query the catalog in natural language through a chat interface.
